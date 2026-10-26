@@ -1,0 +1,6 @@
+# Copier vers key.properties (exclu de Git) et renseigner votre keystore privé.
+# Utiliser des / ou des doubles antislashs dans un chemin Windows.
+storeFile=C:/private/sesame-release.jks
+storePassword=REMPLACER
+keyAlias=sesame
+keyPassword=REMPLACER

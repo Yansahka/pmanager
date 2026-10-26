@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+# Signature de production : ne jamais versionner les clés ou mots de passe.
+android/key.properties
+*.jks
+*.keystore
